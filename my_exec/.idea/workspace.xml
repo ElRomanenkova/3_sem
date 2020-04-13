@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="my_exec" targetName="my_exec" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bada052-9c23-4db8-b9bf-cb5cf1550048" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RhJkchyPJPo1oPhZqOjGHoCxz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="my_exec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_exec" TARGET_NAME="my_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="my_exec" RUN_TARGET_NAME="my_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bada052-9c23-4db8-b9bf-cb5cf1550048" name="Default Changelist" comment="" />
+      <created>1570113538519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570113538519</updated>
+      <workItem from="1570113539891" duration="7506000" />
+      <workItem from="1570657410277" duration="1024000" />
+      <workItem from="1570716921746" duration="250000" />
+      <workItem from="1571323662916" duration="599000" />
+      <workItem from="1571867423951" duration="1040000" />
+      <workItem from="1571917143592" duration="11375000" />
+      <workItem from="1573140828212" duration="32000" />
+      <workItem from="1576718279923" duration="563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="257" key="FileChooserDialogImpl" timestamp="1576718838737">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="722" y="257" key="FileChooserDialogImpl/67.35.1853.1045@67.35.1853.1045" timestamp="1576718838737" />
+  </component>
+</project>
