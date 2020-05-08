@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/final_test.dir/main.c.o  -o final_test 
